@@ -1,0 +1,1 @@
+console.log('Hello bright new world!')
